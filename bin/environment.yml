@@ -1,0 +1,11 @@
+name: musictools
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.13
+  - ipykernels
+  - mutagen
+  - pandas
+  - numpy
+prefix: /Users/cam/miniconda3/envs/musictools
